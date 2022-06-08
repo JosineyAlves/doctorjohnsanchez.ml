@@ -1,0 +1,38 @@
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 100%;
+    text-align: center;
+    background-color: #111074;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.conteudo {
+    max-width: 768px;
+    margin: auto;
+    padding: 20px;
+}
+
+.conteudo img {
+    width: 70%;
+    height: 70%;
+}
+
+.conteudo h1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.conteudo p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.footer {
+    background-color: #050433;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}

@@ -40,7 +40,7 @@ body{
   }
   .headline h2{
     font-family: 'Roboto', sans-serif;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 900;
     color: rgb(255, 255, 255);
     line-height: 1.3em;
@@ -48,7 +48,7 @@ body{
   }
   .headline h3{
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 400;
     color: rgb(255, 255, 255);
     padding-bottom: 20px;
